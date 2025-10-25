@@ -27,7 +27,7 @@
 ### 🧠 About Me
 - 🔭 Working in **Data Analyst at VNPAY**
 - 🌱 Passionate about **Data Analytics, Data Visualization, Business Intelligence, and Automation**
-- 💬 Ask me about **Power BI, SQL, Python, DAX, and automation pipelines**
+- 💬 Ask me about **Power BI, SQL, Python, DAX, and Automation pipelines**
 - ⚡ Fun fact: I love turning messy datasets into meaningful insights!
 
 ---
